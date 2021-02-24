@@ -247,7 +247,7 @@
     <value>Recent items</value>
   </data>
   <data name="SettingsAboutAppName.Text" xml:space="preserve">
-    <value>Files</value>
+    <value>Explorer</value>
   </data>
   <data name="SettingsAboutSubmitFeedback.Text" xml:space="preserve">
     <value>Submit Feedback</value>
